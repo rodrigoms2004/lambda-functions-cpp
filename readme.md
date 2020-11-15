@@ -13,6 +13,8 @@ https://www.dobitaobyte.com.br/funcoes-lambda-c/?fbclid=IwAR2yI57oH9e-HZ8nZdQubP
 * [find_if](https://en.cppreference.com/w/cpp/algorithm/find)
 * [accumulate](https://en.cppreference.com/w/cpp/algorithm/accumulate)
 * [unique](https://en.cppreference.com/w/cpp/algorithm/unique)
+* [vector](https://en.cppreference.com/w/cpp/container/vector)
+
 
 ### How to compile
 
