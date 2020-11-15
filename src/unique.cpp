@@ -18,7 +18,7 @@ int main() {
   vector<int>::iterator last_value = unique(v.begin(), v.end(), [](int a, int b){ return a == b; });
   v.erase(last_value, v.end());
 
-  cout << "Last value of" << *last_value << endl;
+  // cout << "Last value of" << *last_value << endl;
 
   printVector(v);
 }
